@@ -15,6 +15,8 @@ This project is a rule-based translation system that converts Sanskrit words/sen
 ```bash
 python main.py
 
+<img width="1243" height="456" alt="image" src="https://github.com/user-attachments/assets/2c6481dd-e4a2-43e9-b041-47fceb147046" />
+
 
 ## 🚀 Features
 - 🔤 Sanskrit to Odia word translation
